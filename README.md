@@ -1,6 +1,12 @@
 Ridge.jl
 ========
 
+# NOTICE
+
+**This package is unmaintained. Its reliability is not guaranteed.**
+
+# Introduction
+
 Ridge regression and classification in Julia:
 
 	using Ridge, Vega
